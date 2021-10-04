@@ -10,8 +10,8 @@ My name is Sandino. I'm currently a student of Information Technology at UFRN/IM
 - ⚡ Fun facts about me: I love football, video games, and I play drums. 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=paulosandinof&show_icons=true&theme=nightowl" />
+  <img src="https://github-readme-stats.vercel.app/api?username=paulosandinof&show_icons=true&theme=nightowl" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulosandinof&hide=html,css&langs_count=3&layout=compact&theme=nightowl" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulosandinof&hide=html,css&langs_count=3&layout=compact&theme=nightowl" />
 </a>
