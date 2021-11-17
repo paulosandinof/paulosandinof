@@ -6,8 +6,8 @@ My name is Sandino. I'm currently a student of Information Technology at UFRN/IM
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulosandinof&hide=html,css&langs_count=3&layout=compact&theme=nightowl" />
 </a>
 
-- 🔭 I’m currently looking for work.
-- 🌱 I’m currently learning Apache Kafka.
+- 🔭 I’m currently working at [Vizir Software Studio](https://vizir.com.br/).
+- 🌱 I’m currently learning Apache Kafka and AWS.
 - 💬 Ask me about anything, if I can help you, I will.
 - 📫 How to reach me: https://www.linkedin.com/in/paulosandino/
 - 😄 Pronouns: he/him
