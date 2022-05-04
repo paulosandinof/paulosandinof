@@ -11,10 +11,10 @@ My name is Sandino. I have bachelor's degree in Information Technology at UFRN/I
 
 <div style="display: flex">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="195px" src="https://github-readme-stats.vercel.app/api?username=paulosandinof&show_icons=true&theme=nightowl" />
+  <img height="175px" src="https://github-readme-stats.vercel.app/api?username=paulosandinof&show_icons=true&theme=nightowl" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulosandinof&hide=html,css&langs_count=3&layout=compact&theme=nightowl" />
+  <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulosandinof&hide=html,css&langs_count=3&layout=compact&theme=nightowl" />
 </a>
 </div>
